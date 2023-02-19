@@ -11,7 +11,7 @@ svn/
 
 ### Local development files
 dev/wordpress/
-vendor/
+# vendor/
 composer.phar
 
 

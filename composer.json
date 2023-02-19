@@ -20,5 +20,10 @@
       ".gitignore",
       "dev"
     ]
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
   }
 }
